@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 I'm a recently graduated information systems student with a passion for understanding how things work and turning problems into solutions. 
+I enjoy working with javascript, C#, .NET, SQL and databases, and I'm always looking to learn something new.
 
 <!--
 **Alva-bjorn/Alva-bjorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
